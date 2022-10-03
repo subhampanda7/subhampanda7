@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/subhamp25360024" target="blank"><img src="https://img.shields.io/twitter/follow/subhamp25360024?logo=twitter&style=for-the-badge" alt="subhamp25360024" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stacks**
+- 🌱 I’m currently learning ** JAVA Backend | HTML | CSS | JAVASCRIPT**
 
 - 👨‍💻 All of my projects are available at [github.com/subhampanda7](github.com/subhampanda7)
 
