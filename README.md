@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Subham Panda</h1>
 <h3 align="center">Java Back-end Developer</h3>
-<img align="right" width="25%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="">
+<img align="right" width="30%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhampanda7&label=Profile%20views&color=0e75b6&style=flat" alt="subhampanda7" /> </p>
 
@@ -23,7 +23,7 @@
 <hr/>
 
 <p align="left">
-<img width="50%" align="center" src ="https://github-readme-stats.vercel.app/api?username=subhampanda7&show_icons=true&theme=radical"/> 
+<img width="60%" align="center" src ="https://github-readme-stats.vercel.app/api?username=subhampanda7&show_icons=true&theme=radical"/> 
 </p>
 
 
@@ -31,13 +31,13 @@
 <br/>
 
 <p align="left">
-<img width="50%" align="center" src ="https://streak-stats.demolab.com/?user=subhampanda7&theme=dark"/> 
+<img width="60%" align="center" src ="https://streak-stats.demolab.com/?user=subhampanda7&theme=dark"/> 
 </p>
 
 <br/>
 
 <p align="left">
-<img width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=subhampanda7&layout=compact&hide=php"/>
+<img width="60%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=subhampanda7&layout=compact&hide=php"/>
 </p>
 
 
