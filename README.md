@@ -37,7 +37,7 @@
 <br/>
 
 <p align="left">
-<img width="50%" align="center" src ="https://github-readme-stats.vercel.app/api?username=subhampanda7&show_icons=true&theme=radical"/> 
+<img width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=subhampanda7&layout=compact&hide=php"/>
 </p>
 
 
@@ -49,7 +49,7 @@
 <hr/>
 
 <p align="center">
-<img width="75%" src ="https://github-profile-trophy.vercel.app/?username=subhampanda7&theme=onedark"/>
+<img width="65%" src ="https://github-profile-trophy.vercel.app/?username=subhampanda7&theme=onedark"/>
 </p>
 
 
