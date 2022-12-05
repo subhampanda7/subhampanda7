@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **iamsubhampanda7@gmail.com**
 
-- ⚡ Want to Know More About Me: **<a href="https://subhampanda7.github.io/"> Check out My Portfolio</a>**
+- ⚡ Want to Know More About Me: **<a href="https://subhampanda7.github.io/" target="_blank"> Check out My Portfolio</a>**
 
-- 📄 Know about my experiences, here is **<a href="https://drive.google.com/file/d/1GJxme9LAhcQP77fDWyXk0ojs2D_IH985/view?usp=share_link"> My Resume</a>**
+- 📄 Know about my experiences, here is **<a href="https://drive.google.com/file/d/1GJxme9LAhcQP77fDWyXk0ojs2D_IH985/view?usp=share_link" target="_blank"> My Resume</a>**
 
 
 
