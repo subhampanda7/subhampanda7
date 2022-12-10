@@ -70,5 +70,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <hr/>
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,aws,html,css,bootstrap,js,idea,vscode,netlify,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,bootstrap,js,idea,vscode,aws,netlify,git,github)
 
