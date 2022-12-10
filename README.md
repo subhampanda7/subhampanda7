@@ -25,7 +25,7 @@
 <hr/>
 
 <p align="left">
-<img width="45%" align="center" src ="https://github-readme-stats.vercel.app/api?username=subhampanda7&show_icons=true&theme=radical"/> 
+<img width="50%" align="center" src ="https://github-readme-stats.vercel.app/api?username=subhampanda7&show_icons=true&theme=gruvbox"/> 
 </p>
 
 
@@ -33,13 +33,13 @@
 <br/>
 
 <p align="left">
-<img width="45%" align="center" src ="https://streak-stats.demolab.com/?user=subhampanda7&theme=dark"/> 
+<img width="50%" align="center" src ="https://streak-stats.demolab.com/?user=subhampanda7&theme=dark"/> 
 </p>
 
 <br/>
 
 <p align="left">
-<img width="45%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=subhampanda7&layout=compact&hide=php"/>
+<img width="50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=subhampanda7&layout=compact&hide=php"/>
 </p>
 
 
