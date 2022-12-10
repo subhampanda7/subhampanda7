@@ -21,8 +21,8 @@
 
 
 
-<h3 align="left">GitHub Stats:</h3>
-<hr/>
+## GitHub Stats:
+
 
 <p align="left">
 <img width="50%" align="center" src ="https://github-readme-stats.vercel.app/api?username=subhampanda7&show_icons=true&theme=gruvbox"/> 
@@ -45,14 +45,14 @@
 
 
 
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<hr/>
+
+## Languages and Tools:
+
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,bootstrap,js,idea,vscode,aws,netlify,git,github)
 
-<h3 align="left">GitHub Trophies:</h3>
-<hr/>
+## GitHub Trophies:
+
 
 <p align="center">
 <img width="65%" src ="https://github-profile-trophy.vercel.app/?username=subhampanda7&theme=onedark"/>
@@ -63,8 +63,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<hr/>
+## Connect with me:
 <p align="left">
 
 <a href="https://www.linkedin.com/in/subhampanda7/" target="blank"><img align="center" src="https://img.icons8.com/color/240/null/linkedin.png" alt="www.linkedin.com/in/subham-panda-603058162/" height="60" width="60" /></a>
