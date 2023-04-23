@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java Back-end | HTML | CSS | JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at **[github.com/subhampanda7](github.com/subhampanda7)**
+- 👨‍💻 All of my projects are available at **[github.com/subhampanda7](https://github.com/subhampanda7)**
 
 - 💬 Ask me about **any web skills**
 
