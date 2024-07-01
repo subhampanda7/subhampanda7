@@ -17,7 +17,7 @@
 
 - ⚡ Want to Know More About Me: **<a href="https://subhampanda7.github.io/" target="_blank"> Check out My Portfolio</a>**
 
-- 📄 Know about my experiences, here is **<a href="https://drive.google.com/file/d/1GJxme9LAhcQP77fDWyXk0ojs2D_IH985/view?usp=share_link" target="_blank"> My Resume</a>**
+- 📄 Know about my experiences, here is **<a href="https://drive.google.com/file/d/1WkbqI4p60Lu6wPgK_N9Aqn_A-CBNmqRk/view?usp=drive_link" target="_blank"> My Resume</a>**
 
 
 
