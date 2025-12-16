@@ -13,7 +13,7 @@
 - 👨‍💻 All of my projects: **[github.com/subhampanda7](https://github.com/subhampanda7)**
 - 📫 Reach me: **iamsubhampanda7@gmail.com**
 - 🌐 Portfolio: **[subhampanda7.github.io](https://subhampanda7.github.io/)**
-- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1WkbqI4p60Lu6wPgK_N9Aqn_A-CBNmqRk/view?usp=drive_link)**
+- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1adG20MDOzfjBiySet2mJsGA3KHgfO-Gh/view?usp=drivesdk)**
 
 ## 💻 Tech Stack
 
