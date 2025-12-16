@@ -10,10 +10,10 @@
 - 🔭 Building **scalable microservices and event-driven systems** processing millions of events
 - 🌱 Expertise in **Java, Spring Boot, Kafka, Redis, Temporal.io, PostgreSQL, AWS**
 - 💡 Passionate about **system design, distributed systems, and performance optimization**
-- 👨‍💻 All of my projects: **[github.com/subhampanda7](https://github.com/subhampanda7)**
-- 📫 Reach me: **iamsubhampanda7@gmail.com**
-- 🌐 Portfolio: **[subhampanda7.github.io](https://subhampanda7.github.io/)**
-- 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1adG20MDOzfjBiySet2mJsGA3KHgfO-Gh/view?usp=drivesdk)**
+- 👨‍💻 All of my projects: <a href="https://github.com/subhampanda7" target="_blank">github.com/subhampanda7</a>
+- 📫 Reach me: <a href="mailto:iamsubhampanda7@gmail.com" target="_blank">iamsubhampanda7@gmail.com</a>
+- 🌐 Portfolio: <a href="https://subhampanda7.github.io/" target="_blank">subhampanda7.github.io</a>
+- 📄 Resume: <a href="https://drive.google.com/file/d/1adG20MDOzfjBiySet2mJsGA3KHgfO-Gh/view?usp=drivesdk" target="_blank">View My Resume</a>
 
 ## 💻 Tech Stack
 
